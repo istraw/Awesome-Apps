@@ -28,11 +28,14 @@
 | [Figma](https://www.figma.com) | 云端协作设计工具 | 免费增值 | ⭐⭐⭐⭐ |
 | [PureRef](https://www.pureref.com) | 参考图片整理与展示 | 自愿付费 | ⭐⭐⭐ |
 
-### 📦 解压
+### 📦 文件与压缩
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
 | [Bandizip](https://www.bandisoft.com/bandizip/) | 多格式压缩与解压工具 | 免费增值 | ⭐⭐⭐⭐ |
+| [7-Zip](https://www.7-zip.org/) | 开源压缩与解压工具，支持 7z、ZIP 等格式 | 免费 | ⭐⭐⭐⭐⭐ |
+| [PeaZip](https://peazip.github.io/) | 开源多格式压缩管理工具 | 免费 | ⭐⭐⭐⭐ |
+| [Files](https://files.community/) | 现代化 Windows 文件管理器，官网与商店渠道收费方式不同 | 免费 | ⭐⭐⭐⭐ |
 
 ### 🤖 AI
 
@@ -61,20 +64,11 @@
 | [Rufus](https://rufus.ie/) | 制作可启动 U 盘及系统安装介质 | 免费 | ⭐⭐⭐⭐⭐ |
 | [HWiNFO](https://www.hwinfo.com/) | 查看硬件信息、温度及传感器状态，个人非商业使用有免费版本 | 免费增值 | ⭐⭐⭐⭐ |
 
-### 📦 文件与压缩
-
-| 软件 | 简介 | 收费模式 | 推荐度 |
-| :--- | :--- | :--- | :--- |
-| [7-Zip](https://www.7-zip.org/) | 开源压缩与解压工具，支持 7z、ZIP 等格式 | 免费 | ⭐⭐⭐⭐⭐ |
-| [PeaZip](https://peazip.github.io/) | 开源多格式压缩管理工具 | 免费 | ⭐⭐⭐⭐ |
-| [Files](https://files.community/) | 现代化 Windows 文件管理器，官网与商店渠道收费方式不同 | 免费 | ⭐⭐⭐⭐ |
-
 ### 🌍 浏览器与下载
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
 | [Firefox](https://www.mozilla.org/firefox/) | 开源浏览器，注重隐私和扩展生态 | 免费 | ⭐⭐⭐⭐⭐ |
-| [Brave](https://brave.com/) | 内置广告与追踪拦截功能的浏览器 | 免费增值 | ⭐⭐⭐⭐ |
 | [qBittorrent](https://www.qbittorrent.org/) | 开源 BT 下载工具，支持磁力链接 | 免费 | ⭐⭐⭐⭐⭐ |
 
 ### 💻 开发工具
@@ -93,8 +87,6 @@
 | [v2rayN](https://github.com/2dust/v2rayN) | 支持多种代理协议、节点订阅与路由规则 | 免费 | ⭐⭐⭐⭐⭐ |
 | [FlClash](https://github.com/chen08209/FlClash) | 跨平台代理客户端，支持 Mihomo 规则与策略组 | 免费 | ⭐⭐⭐⭐⭐ |
 | [Karing](https://github.com/KaringX/karing) | 基于 sing-box 的跨平台代理客户端，支持订阅管理及规则分流 | 免费 | ⭐⭐⭐⭐⭐ |
-| [Hiddify](https://github.com/hiddify/hiddify-app) | 开源跨平台代理客户端，支持多协议及便捷订阅导入 | 免费 | ⭐⭐⭐⭐ |
-| [Clash Nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | 基于 Mihomo 的桌面代理客户端，界面现代化 | 免费 | ⭐⭐⭐⭐ |
 
 ---
 
