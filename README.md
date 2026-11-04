@@ -29,7 +29,6 @@
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
 | [Thaw](https://github.com/stonerl/Thaw) | 菜单栏图标管理 | 免费 | ⭐⭐⭐⭐⭐ |
-| [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) | 外接显示器窗口布局恢复与亮度联动 | 免费 | ⭐⭐⭐⭐ |
 
 ### 🎨 美化
 
