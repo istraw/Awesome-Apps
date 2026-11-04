@@ -4,7 +4,7 @@
 
 ![Platforms](https://img.shields.io/badge/Platforms-4-1677ff) ![Apps](https://img.shields.io/badge/Apps-21-555555) ![License](https://img.shields.io/badge/List-Community%20Sharing-4c956c)
 
-**更新时间：2026-11-4** · 推荐星级仅代表个人体验，收费政策以软件官网为准。
+推荐星级仅代表个人体验，收费政策以软件官网为准。
 
 ## 🧭 平台导航
 
