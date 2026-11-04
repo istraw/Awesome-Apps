@@ -73,6 +73,8 @@
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
 | [Karing](https://github.com/KaringX/karing) | 基于 sing-box 的跨平台代理客户端，支持订阅管理及规则分流 | 免费 | ⭐⭐⭐⭐⭐ |
+| [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | 支持多协议、订阅管理、规则分流及网络调试的代理客户端 | 买断 | ⭐⭐⭐⭐⭐ |
+| [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | 支持复杂分流、重写、脚本及网络请求分析 | 买断 | ⭐⭐⭐⭐⭐ |
 
 ---
 
