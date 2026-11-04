@@ -32,8 +32,6 @@
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
 | [Alook](https://alookweb.com/) | 轻量浏览器，支持广告过滤、文件下载等 | 买断 | ⭐⭐⭐⭐ |
-| [Firefox](https://www.mozilla.org/firefox/browsers/mobile/ios/) | 支持跨设备同步的浏览器 | 免费 | ⭐⭐⭐⭐ |
-| [Brave](https://brave.com/) | 注重隐私保护与广告拦截的浏览器 | 免费增值 | ⭐⭐⭐⭐ |
 
 ### 🎬 影音与阅读
 
@@ -41,8 +39,6 @@
 | :--- | :--- | :--- | :--- |
 | [Infuse](https://firecore.com/infuse) | 高品质视频播放器，支持局域网媒体库与多种格式 | 免费增值 | ⭐⭐⭐⭐⭐ |
 | [VLC](https://www.videolan.org/vlc/download-ios.html) | 开源播放器，支持本地及网络媒体 | 免费 | ⭐⭐⭐⭐⭐ |
-| [网易蜗牛读书](https://du.163.com/) | 中文电子书阅读平台 | 免费增值 | ⭐⭐⭐⭐ |
-| [Pocket Casts](https://pocketcasts.com/) | 播客订阅、播放与跨设备同步 | 免费增值 | ⭐⭐⭐⭐ |
 
 ### 📷 图片与扫描
 
@@ -58,7 +54,6 @@
 | [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | 支持多协议、订阅管理、规则分流及网络调试的代理客户端 | 买断 | ⭐⭐⭐⭐⭐ |
 | [Stash](https://stash.ws/) | 基于 Mihomo/Clash 配置生态的规则代理工具，支持策略组及脚本 | 买断 | ⭐⭐⭐⭐⭐ |
 | [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | 支持复杂分流、重写、脚本及网络请求分析 | 买断 | ⭐⭐⭐⭐⭐ |
-| [Surge](https://nssurge.com/) | 专业网络调试与代理工具，支持规则、脚本和请求分析 | 免费增值 | ⭐⭐⭐⭐⭐ |
 | [Loon](https://apps.apple.com/us/app/loon/id1373567447) | 支持规则分流、脚本、复写与插件的网络工具 | 买断 | ⭐⭐⭐⭐ |
 | [Karing](https://github.com/KaringX/karing) | 基于 sing-box 的跨平台代理客户端，支持订阅管理及规则分流 | 免费 | ⭐⭐⭐⭐⭐ |
 | [Hiddify](https://github.com/hiddify/hiddify-app) | 开源跨平台代理客户端，支持多协议与订阅导入 | 免费 | ⭐⭐⭐⭐ |
