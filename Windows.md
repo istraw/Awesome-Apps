@@ -32,7 +32,7 @@
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [Bandizip](https://www.bandisoft.com/bandizip/) | 多格式压缩与解压工具 | 免费增值 | ⭐⭐⭐⭐ |
+| [Bandizip](https://www.bandisoft.com/bandizip/) | 多格式压缩与解压工具 | 付费 | ⭐⭐⭐⭐ |
 | [7-Zip](https://www.7-zip.org/) | 开源压缩与解压工具，支持 7z、ZIP 等格式 | 免费 | ⭐⭐⭐⭐⭐ |
 | [PeaZip](https://peazip.github.io/) | 开源多格式压缩管理工具 | 免费 | ⭐⭐⭐⭐ |
 | [Files](https://files.community/) | 现代化 Windows 文件管理器，官网与商店渠道收费方式不同 | 免费 | ⭐⭐⭐⭐ |
