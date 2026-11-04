@@ -68,6 +68,12 @@
 | [Magpie](https://usemagpie.ai/zh/) | AI 编程工具模型与 API 配置管理 | 免费 | ⭐⭐⭐⭐ |
 | [CC-Switch](https://ccswitch.io/zh/) | AI 编程服务商与模型配置切换 | 免费 | ⭐⭐⭐⭐ |
 
+### 🌐 VPN / 代理工具
+
+| 软件 | 简介 | 收费模式 | 推荐度 |
+| :--- | :--- | :--- | :--- |
+| [Karing](https://github.com/KaringX/karing) | 基于 sing-box 的跨平台代理客户端，支持订阅管理及规则分流 | 免费 | ⭐⭐⭐⭐⭐ |
+
 ---
 
 欢迎通过 [Issues](https://github.com/istraw/Awesome-Apps/issues) 推荐软件、反馈失效链接或纠正收费信息。喜欢这份清单，欢迎点亮 ⭐ Star。
