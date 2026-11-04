@@ -41,8 +41,6 @@
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [Firefox](https://www.mozilla.org/firefox/browsers/mobile/android/) | 支持扩展插件和隐私保护的浏览器 | 免费 | ⭐⭐⭐⭐⭐ |
-| [Brave](https://brave.com/) | 内置广告与追踪拦截的浏览器 | 免费增值 | ⭐⭐⭐⭐ |
 | [1DM](https://www.apps2sd.info/idmp/) | 多线程下载与文件管理工具 | 免费增值 | ⭐⭐⭐⭐ |
 
 ### ⚡ 效率与自动化
@@ -69,10 +67,7 @@
 | [Karing](https://github.com/KaringX/karing) | 基于 sing-box 的跨平台代理客户端，支持订阅及规则分流 | 免费 | ⭐⭐⭐⭐⭐ |
 | [FlClash](https://github.com/chen08209/FlClash) | 基于 Mihomo 的跨平台代理客户端，支持策略组及规则分流 | 免费 | ⭐⭐⭐⭐⭐ |
 | [v2rayNG](https://github.com/2dust/v2rayNG) | 支持 VLESS、VMess 等协议的代理客户端 | 免费 | ⭐⭐⭐⭐⭐ |
-| [Hiddify](https://github.com/hiddify/hiddify-app) | 跨平台代理客户端，支持多协议及订阅导入 | 免费 | ⭐⭐⭐⭐ |
-| [Surfboard](https://getsurfboard.com/) | 支持订阅、策略组和规则分流的代理工具 | 免费 | ⭐⭐⭐⭐ |
-| [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) | Mihomo 代理客户端，原项目已归档 | 免费 | ⭐⭐⭐⭐ |
-| [NekoBox for Android](https://github.com/MatsuriDayo/NekoBoxForAndroid) | 基于 sing-box 的代理客户端，原项目已归档 | 免费 | ⭐⭐⭐⭐ |
+
 
 > 提示：部分项目已归档，建议优先选择仍在维护的客户端。代理工具本身免费，不代表节点或网络服务免费。
 
