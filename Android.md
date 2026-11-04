@@ -26,6 +26,7 @@
 | [Files by Google](https://files.google.com/) | 文件浏览、存储清理与分享 | 免费 | ⭐⭐⭐⭐ |
 | [LocalSend](https://localsend.org/) | 局域网跨设备文件传输 | 免费 | ⭐⭐⭐⭐⭐ |
 | [Shizuku](https://shizuku.rikka.app/) | 为兼容应用提供系统 API 访问能力 | 免费 | ⭐⭐⭐⭐⭐ |
+| [Nrfr](https://github.com/Ackites/Nrfr) | 无需 Root 即可修改 Android 系统识别的 SIM 卡国家码的工具 | 免费 | ⭐⭐⭐⭐ |
 | [Obtainium](https://github.com/ImranR98/Obtainium) | 从开发者发布源跟踪并更新 Android 应用 | 免费 | ⭐⭐⭐⭐ |
 
 ### 🎬 影音播放
@@ -35,6 +36,7 @@
 | [VLC](https://www.videolan.org/vlc/download-android.html) | 开源音视频播放器，支持多种格式与网络流 | 免费 | ⭐⭐⭐⭐⭐ |
 | [MX Player](https://www.mxplayer.in/) | 视频播放器，支持字幕与硬件解码，部分版本含广告或付费功能 | 免费增值 | ⭐⭐⭐⭐ |
 | [Kodi](https://kodi.tv/) | 开源家庭媒体中心，支持本地与网络媒体库 | 免费 | ⭐⭐⭐⭐⭐ |
+| [saltplayer](https://saltplayer.com/) | 一款主打本地音乐播放的播放器，主要面向 Android 平台，以简洁界面、音质播放和音乐库管理为特色 | 自愿付费 | ⭐⭐⭐⭐⭐ |
 | [Musicolet](https://krosbits.in/musicolet/) | 专注本地音乐播放的离线播放器 | 免费增值 | ⭐⭐⭐⭐ |
 
 ### 🌍 浏览器与下载
@@ -69,7 +71,7 @@
 | [v2rayNG](https://github.com/2dust/v2rayNG) | 支持 VLESS、VMess 等协议的代理客户端 | 免费 | ⭐⭐⭐⭐⭐ |
 
 
-> 提示：部分项目已归档，建议优先选择仍在维护的客户端。代理工具本身免费，不代表节点或网络服务免费。
+> 代理工具本身免费，不代表节点或网络服务免费。
 
 ---
 
