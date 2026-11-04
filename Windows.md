@@ -68,7 +68,6 @@
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [Firefox](https://www.mozilla.org/firefox/) | 开源浏览器，注重隐私和扩展生态 | 免费 | ⭐⭐⭐⭐⭐ |
 | [qBittorrent](https://www.qbittorrent.org/) | 开源 BT 下载工具，支持磁力链接 | 免费 | ⭐⭐⭐⭐⭐ |
 
 ### 💻 开发工具
