@@ -45,7 +45,6 @@
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
 | [Snapseed](https://apps.apple.com/app/snapseed/id439438619) | Google 推出的移动照片编辑工具 | 免费 | ⭐⭐⭐⭐ |
-| [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom/mobile.html) | 专业照片调色与编辑，部分功能需订阅 | 免费增值 | ⭐⭐⭐⭐ |
 
 ### 🌐 VPN / 代理工具
 
@@ -56,9 +55,6 @@
 | [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | 支持复杂分流、重写、脚本及网络请求分析 | 买断 | ⭐⭐⭐⭐⭐ |
 | [Loon](https://apps.apple.com/us/app/loon/id1373567447) | 支持规则分流、脚本、复写与插件的网络工具 | 买断 | ⭐⭐⭐⭐ |
 | [Karing](https://github.com/KaringX/karing) | 基于 sing-box 的跨平台代理客户端，支持订阅管理及规则分流 | 免费 | ⭐⭐⭐⭐⭐ |
-| [Hiddify](https://github.com/hiddify/hiddify-app) | 开源跨平台代理客户端，支持多协议与订阅导入 | 免费 | ⭐⭐⭐⭐ |
-| [sing-box](https://sing-box.sagernet.org/clients/apple/) | sing-box 官方 Apple 平台客户端，适合自定义路由和高级配置 | 免费 | ⭐⭐⭐⭐ |
-| [Potatso](https://potatso.com/) | iOS 代理客户端，提供代理配置及网络规则管理 | 免费增值 | ⭐⭐⭐ |
 
 > 📌 部分软件在不同地区的 App Store 上架情况、收费方式及高级功能权益可能不同，以官方页面为准。
 
