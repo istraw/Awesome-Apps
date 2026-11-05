@@ -33,7 +33,7 @@
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
 | [Bandizip](https://www.bandisoft.com/bandizip/) | 多格式压缩与解压工具 | 付费 | ⭐⭐ |
-| [7-Zip](https://www.7-zip.org/) | 开源压缩与解压工具，支持 7z、ZIP 等格式 | 免费 | ⭐⭐⭐ |
+| [7-Zip](https://www.7-zip.org/) | 开源压缩与解压工具，支持 7z、ZIP 等格式 | 免费 | ⭐⭐ |
 | [PeaZip](https://peazip.github.io/) | 开源多格式压缩管理工具 | 免费 | ⭐⭐ |
 | [Files](https://files.community/) | 现代化 Windows 文件管理器，官网与商店渠道收费方式不同 | 免费 | ⭐⭐ |
 
@@ -51,16 +51,16 @@
 | [PotPlayer](https://potplayer.daum.net/) | 功能丰富的视频播放器，支持多种格式、字幕及硬件解码 | 免费 | ⭐⭐⭐ |
 | [VLC](https://www.videolan.org/vlc/) | 开源跨平台音视频播放器，兼容多种媒体格式 | 免费 | ⭐⭐ |
 | [foobar2000](https://www.foobar2000.org/) | 轻量专业的音乐播放器，支持丰富的音频格式和组件 | 免费 | ⭐⭐ |
-| [OBS Studio](https://obsproject.com/) | 开源录屏、直播和场景混合工具 | 免费 | ⭐⭐⭐ |
+| [OBS Studio](https://obsproject.com/) | 开源录屏、直播和场景混合工具 | 免费 | ⭐⭐ |
 
 ### ⚙️ 系统增强
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [Everything](https://www.voidtools.com/) | 极速搜索本地文件和文件夹 | 免费 | ⭐⭐⭐ |
-| [LocalSend](https://localsend.org/) | 局域网跨设备传输文件，无需账号 | 免费 | ⭐⭐⭐ |
+| [Everything](https://www.voidtools.com/) | 极速搜索本地文件和文件夹 | 免费 | ⭐⭐ |
+| [LocalSend](https://localsend.org/) | 局域网跨设备传输文件，无需账号 | 免费 | ⭐⭐ |
 | [QuickLook](https://github.com/QL-Win/QuickLook) | 在资源管理器中按空格快速预览文件 | 免费 | ⭐⭐ |
-| [Rufus](https://rufus.ie/) | 制作可启动 U 盘及系统安装介质 | 免费 | ⭐⭐⭐ |
+| [Rufus](https://rufus.ie/) | 制作可启动 U 盘及系统安装介质 | 免费 | ⭐⭐ |
 | [HWiNFO](https://www.hwinfo.com/) | 查看硬件信息、温度及传感器状态，个人非商业使用有免费版本 | 免费增值 | ⭐⭐ |
 
 ### 🌍 浏览器与下载
