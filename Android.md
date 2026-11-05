@@ -14,62 +14,62 @@
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [Bitwarden](https://bitwarden.com/) | 密码、通行密钥及跨设备同步 | 免费增值 | ⭐⭐⭐⭐ |
-| [1Password](https://1password.com) | 密码及通行密钥管理 | 订阅 | ⭐⭐⭐⭐ |
+| [Bitwarden](https://bitwarden.com/) | 密码、通行密钥及跨设备同步 | 免费增值 | ⭐⭐ |
+| [1Password](https://1password.com) | 密码及通行密钥管理 | 订阅 | ⭐⭐ |
 
 ### ⚙️ 系统与文件管理
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [MT 管理器](https://mt2.cn/) | 双窗口文件管理、压缩包操作与 APK 查看 | 免费增值 | ⭐⭐⭐⭐⭐ |
-| [Solid Explorer](https://neatbytes.com/solidexplorer/) | 双窗格文件管理器，支持云存储和网络共享 | 买断 | ⭐⭐⭐⭐⭐ |
-| [Files by Google](https://files.google.com/) | 文件浏览、存储清理与分享 | 免费 | ⭐⭐⭐⭐ |
-| [LocalSend](https://localsend.org/) | 局域网跨设备文件传输 | 免费 | ⭐⭐⭐⭐⭐ |
-| [Shizuku](https://shizuku.rikka.app/) | 为兼容应用提供系统 API 访问能力 | 免费 | ⭐⭐⭐⭐⭐ |
-| [Nrfr](https://github.com/Ackites/Nrfr) | 无需 Root 即可修改 Android 系统识别的 SIM 卡国家码的工具 | 免费 | ⭐⭐⭐⭐ |
+| [MT 管理器](https://mt2.cn/) | 双窗口文件管理、压缩包操作与 APK 查看 | 免费增值 | ⭐⭐⭐ |
+| [Solid Explorer](https://neatbytes.com/solidexplorer/) | 双窗格文件管理器，支持云存储和网络共享 | 买断 | ⭐⭐⭐ |
+| [Files by Google](https://files.google.com/) | 文件浏览、存储清理与分享 | 免费 | ⭐⭐ |
+| [LocalSend](https://localsend.org/) | 局域网跨设备文件传输 | 免费 | ⭐⭐⭐ |
+| [Shizuku](https://shizuku.rikka.app/) | 为兼容应用提供系统 API 访问能力 | 免费 | ⭐⭐⭐ |
+| [Nrfr](https://github.com/Ackites/Nrfr) | 无需 Root 即可修改 Android 系统识别的 SIM 卡国家码的工具 | 免费 | ⭐⭐ |
 | [Obtainium](https://github.com/ImranR98/Obtainium) | 从开发者发布源跟踪并更新 Android 应用 | 免费 | ⭐⭐⭐⭐ |
 
 ### 🎬 影音播放
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [VLC](https://www.videolan.org/vlc/download-android.html) | 开源音视频播放器，支持多种格式与网络流 | 免费 | ⭐⭐⭐⭐⭐ |
-| [MX Player](https://www.mxplayer.in/) | 视频播放器，支持字幕与硬件解码，部分版本含广告或付费功能 | 免费增值 | ⭐⭐⭐⭐ |
-| [Kodi](https://kodi.tv/) | 开源家庭媒体中心，支持本地与网络媒体库 | 免费 | ⭐⭐⭐⭐⭐ |
-| [saltplayer](https://saltplayer.com/) | 一款主打本地音乐播放的播放器，主要面向 Android 平台，以简洁界面、音质播放和音乐库管理为特色 | 自愿付费 | ⭐⭐⭐⭐⭐ |
-| [Musicolet](https://krosbits.in/musicolet/) | 专注本地音乐播放的离线播放器 | 免费增值 | ⭐⭐⭐⭐ |
+| [VLC](https://www.videolan.org/vlc/download-android.html) | 开源音视频播放器，支持多种格式与网络流 | 免费 | ⭐⭐ |
+| [MX Player](https://www.mxplayer.in/) | 视频播放器，支持字幕与硬件解码，部分版本含广告或付费功能 | 免费增值 | ⭐ |
+| [Kodi](https://kodi.tv/) | 开源家庭媒体中心，支持本地与网络媒体库 | 免费 | ⭐⭐ |
+| [saltplayer](https://saltplayer.com/) | 一款主打本地音乐播放的播放器，主要面向 Android 平台，以简洁界面、音质播放和音乐库管理为特色 | 自愿付费 | ⭐⭐⭐ |
+| [Musicolet](https://krosbits.in/musicolet/) | 专注本地音乐播放的离线播放器 | 免费增值 | ⭐⭐ |
 
 ### 🌍 浏览器与下载
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [1DM](https://www.apps2sd.info/idmp/) | 多线程下载与文件管理工具 | 免费增值 | ⭐⭐⭐⭐ |
+| [1DM](https://www.apps2sd.info/idmp/) | 多线程下载与文件管理工具 | 免费增值 | ⭐⭐ |
 
 ### ⚡ 效率与自动化
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [Tasker](https://tasker.joaoapps.com/) | 根据时间、位置、状态等条件自动执行任务 | 买断 | ⭐⭐⭐⭐⭐ |
-| [MacroDroid](https://www.macrodroid.com/) | 图形化 Android 自动化工具，易于配置触发条件 | 免费增值 | ⭐⭐⭐⭐ |
-| [KDE Connect](https://kdeconnect.kde.org/) | 手机与电脑间共享剪贴板、文件及通知 | 免费 | ⭐⭐⭐⭐⭐ |
-| [Notion](https://www.notion.com/) | 笔记、知识库与任务协作 | 免费增值 | ⭐⭐⭐⭐ |
+| [Tasker](https://tasker.joaoapps.com/) | 根据时间、位置、状态等条件自动执行任务 | 买断 | ⭐⭐⭐ |
+| [MacroDroid](https://www.macrodroid.com/) | 图形化 Android 自动化工具，易于配置触发条件 | 免费增值 | ⭐⭐ |
+| [KDE Connect](https://kdeconnect.kde.org/) | 手机与电脑间共享剪贴板、文件及通知 | 免费 | ⭐⭐⭐ |
+| [Notion](https://www.notion.com/) | 笔记、知识库与任务协作 | 免费增值 | ⭐⭐ |
 
 ### 📷 图片与阅读
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) | 移动照片编辑与调色 | 免费 | ⭐⭐⭐⭐ |
-| [ReadEra](https://readera.org/) | 本地电子书及文档阅读器 | 免费增值 | ⭐⭐⭐⭐ |
-| [Librera Reader](https://github.com/foobnix/LibreraReader) | 开源电子书阅读器，支持多种文档格式 | 免费 | ⭐⭐⭐⭐ |
-| [Mihon](https://github.com/mihonapp/mihon) | Android 平台的免费开源漫画阅读器 | 免费 | ⭐⭐⭐⭐⭐ |
+| [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) | 移动照片编辑与调色 | 免费 | ⭐⭐ |
+| [ReadEra](https://readera.org/) | 本地电子书及文档阅读器 | 免费增值 | ⭐⭐ |
+| [Librera Reader](https://github.com/foobnix/LibreraReader) | 开源电子书阅读器，支持多种文档格式 | 免费 | ⭐⭐ |
+| [Mihon](https://github.com/mihonapp/mihon) | Android 平台的免费开源漫画阅读器 | 免费 | ⭐⭐⭐ |
 
 ### 🌐 VPN / 代理工具
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [Karing](https://github.com/KaringX/karing) | 基于 sing-box 的跨平台代理客户端，支持订阅及规则分流 | 免费 | ⭐⭐⭐⭐⭐ |
-| [FlClash](https://github.com/chen08209/FlClash) | 基于 Mihomo 的跨平台代理客户端，支持策略组及规则分流 | 免费 | ⭐⭐⭐⭐⭐ |
-| [v2rayNG](https://github.com/2dust/v2rayNG) | 支持 VLESS、VMess 等协议的代理客户端 | 免费 | ⭐⭐⭐⭐⭐ |
+| [Karing](https://github.com/KaringX/karing) | 基于 sing-box 的跨平台代理客户端，支持订阅及规则分流 | 免费 | ⭐⭐ |
+| [FlClash](https://github.com/chen08209/FlClash) | 基于 Mihomo 的跨平台代理客户端，支持策略组及规则分流 | 免费 | ⭐⭐ |
+| [v2rayNG](https://github.com/2dust/v2rayNG) | 支持 VLESS、VMess 等协议的代理客户端 | 免费 | ⭐⭐ |
 
 
 > 代理工具本身免费，不代表节点或网络服务免费。
