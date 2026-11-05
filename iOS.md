@@ -50,8 +50,8 @@
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | 支持多协议、订阅管理、规则分流及网络调试的代理客户端 | 买断 | ⭐⭐⭐ |
-| [Stash](https://stash.ws/) | 基于 Mihomo/Clash 配置生态的规则代理工具，支持策略组及脚本 | 买断 | ⭐⭐⭐ |
+| [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | 支持多协议、订阅管理、规则分流及网络调试的代理客户端 | 买断 | ⭐⭐ |
+| [Stash](https://stash.ws/) | 基于 Mihomo/Clash 配置生态的规则代理工具，支持策略组及脚本 | 买断 | ⭐⭐ |
 | [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) | 支持复杂分流、重写、脚本及网络请求分析 | 买断 | ⭐⭐ |
 | [Loon](https://apps.apple.com/us/app/loon/id1373567447) | 支持规则分流、脚本、复写与插件的网络工具 | 买断 | ⭐⭐ |
 | [Karing](https://github.com/KaringX/karing) | 基于 sing-box 的跨平台代理客户端，支持订阅管理及规则分流 | 免费 | ⭐⭐ |
