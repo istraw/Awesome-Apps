@@ -41,7 +41,7 @@
 
 | 软件 | 简介 | 收费模式 | 推荐度 |
 | :--- | :--- | :--- | :--- |
-| [Thaw](https://github.com/stonerl/Thaw) | 菜单栏图标管理 | 免费 | ⭐ |
+| [Thaw](https://github.com/stonerl/Thaw) | 菜单栏图标管理，Mac OS26后，兼容性都不是很理想 | 免费 | ⭐ |
 
 ### 🎨 美化
 
